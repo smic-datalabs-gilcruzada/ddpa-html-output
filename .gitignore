@@ -1,0 +1,14 @@
+# Ignore files with .txt extension
+*.txt
+
+# Ignore a directory named "logs"
+/logs/
+
+# Ignore a specific file
+.ipynb_checkpoints
+.ipynb_checkpoints/Data_Automation_Discovery-checkpoint.ipynb
+__pycache__
+__pycache__/ddpa_report.cpython-311.pyc
+Data_Automation_Discovery.ipynb
+loyalties.bson.gz
+overview_page.html
